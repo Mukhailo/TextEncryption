@@ -8,6 +8,7 @@ __pycache__/
 
 .idea
 test.py
+test_1.py
 
 # Distribution / packaging
 .Python
