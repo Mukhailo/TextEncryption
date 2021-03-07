@@ -1,3 +1,4 @@
 # TextEncryption
 This script encrypts the text
-Supports three languages ​​for text encryption: Ukrainian, English and Russian
+A script that encrypts text in the font of Caesar and Grosveld
+# Encrypting text with the Grosveld cipher is temporarily down
